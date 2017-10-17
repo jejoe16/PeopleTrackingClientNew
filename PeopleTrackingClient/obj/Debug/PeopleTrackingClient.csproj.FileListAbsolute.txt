@@ -1,0 +1,10 @@
+C:\Users\Chris\Documents\GitHub\PeopleTrackingClientNew\PeopleTrackingClient\obj\Debug\PeopleTrackingClient.csprojResolveAssemblyReference.cache
+C:\Users\Chris\Documents\GitHub\PeopleTrackingClientNew\PeopleTrackingClient\obj\Debug\PeopleTrackingClient.Form1.resources
+C:\Users\Chris\Documents\GitHub\PeopleTrackingClientNew\PeopleTrackingClient\obj\Debug\PeopleTrackingClient.Properties.Resources.resources
+C:\Users\Chris\Documents\GitHub\PeopleTrackingClientNew\PeopleTrackingClient\obj\Debug\PeopleTrackingClient.csproj.GenerateResource.Cache
+C:\Users\Chris\Documents\GitHub\PeopleTrackingClientNew\PeopleTrackingClient\obj\Debug\PeopleTrackingClient.csproj.CoreCompileInputs.cache
+C:\Users\Chris\Documents\GitHub\PeopleTrackingClientNew\PeopleTrackingClient\bin\Debug\PeopleTrackingClient.exe.config
+C:\Users\Chris\Documents\GitHub\PeopleTrackingClientNew\PeopleTrackingClient\bin\Debug\PeopleTrackingClient.exe
+C:\Users\Chris\Documents\GitHub\PeopleTrackingClientNew\PeopleTrackingClient\bin\Debug\PeopleTrackingClient.pdb
+C:\Users\Chris\Documents\GitHub\PeopleTrackingClientNew\PeopleTrackingClient\obj\Debug\PeopleTrackingClient.exe
+C:\Users\Chris\Documents\GitHub\PeopleTrackingClientNew\PeopleTrackingClient\obj\Debug\PeopleTrackingClient.pdb
