@@ -12,7 +12,7 @@ namespace PeopleTrackingClient.Check
         /*
          * takes a user and alters their possition if possible, else return false.
          * */
-      public bool CheckIn(User.User user, string poss)
+      public bool CheckIn(User.User user, String poss)
         {
             if (poss != null )
             {
